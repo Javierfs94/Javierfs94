@@ -4,7 +4,7 @@
 - :pushpin: A passionate fullstack developer from Córdoba.
 - 🔭 I’m currently working with PHP.
 - 🌱 I’m currently learning **Symfony and Vue.**
-- 👨‍💻 All of my projects are available at my [Portfolio](https://javierfs94.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://javierfs94.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
