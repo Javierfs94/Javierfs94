@@ -9,7 +9,7 @@
 
 <p>
 ➡️ 
-<a href="Francisco_Javier_ Frías_Serrano_CV_ES.pdf" target="blank">¡Mi CV está aquí!</a>
+<a href="https://github.com/Javierfs94/Javierfs94/blob/master/Javier_Frias_CV_ES.pdf" target="blank">¡Mi CV está aquí!</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
