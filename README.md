@@ -8,7 +8,12 @@
 - 👨‍💻 All of my projects are available at my [Portfolio](https://javierfs94.github.io/portfolio/)
 
 <p>
-➡️ 
+EN ➡️ 
+<a href="https://github.com/Javierfs94/Javierfs94/blob/master/Javier_Frias_CV_ES.pdf" target="blank">Here is my CV!</a>
+</p>
+
+<p>
+ES ➡️ 
 <a href="https://github.com/Javierfs94/Javierfs94/blob/master/Javier_Frias_CV_ES.pdf" target="blank">¡Mi CV está aquí!</a>
 </p>
 
