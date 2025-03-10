@@ -4,7 +4,7 @@
 ## About me
 - :pushpin: A passionate fullstack developer from Córdoba.
 - 🔭 I’m currently working with PHP.
-- 🌱 I’m currently learning **Spring and Angular.**
+- 🌱 I’m currently learning **Laravel and Angular.**
 - 👨‍💻 All of my projects are available at my [Portfolio](https://javierfs94.github.io/portfolio/)
 
 <p>
