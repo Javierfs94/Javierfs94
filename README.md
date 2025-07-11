@@ -64,9 +64,3 @@ ES ➡️
 ### :fire: My Stats :
 
 ![Profile_views](https://komarev.com/ghpvc/?username=javierfs94&style=for-the-badge&color=blueviolet)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Javierfs94)](https://git.io/streak-stats)
-
-<a href="https://git.io/streak-stats" rel="nofollow" target="_blank">
-  <img src="https://streak-stats.demolab.com?user=Javierfs94" alt="GitHub Streak" style="max-width: 100%;">
-</a>
