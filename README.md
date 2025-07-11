@@ -8,18 +8,13 @@
 - 👨‍💻 All of my projects are available at my [Portfolio](https://javierfs94.github.io/portfolio/)
 
 <p>
-EN ➡️ 
-<a href="https://github.com/Javierfs94/Javierfs94/blob/master/Javier_Frias_CV_ES.pdf" target="blank">Here is my CV!</a>
-</p>
-
-<p>
 ES ➡️ 
-<a href="https://github.com/Javierfs94/Javierfs94/blob/master/Javier_Frias_CV_ES.pdf" target="blank">¡Mi CV está aquí!</a>
+<a href="https://github.com/Javierfs94/Javierfs94/blob/master/Javier_Frias_CV_ES.pdf" target="_blank">¡Mi CV está aquí!</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/javifs94/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Francisco Javier Frias Serrrano" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/javifs94/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Francisco Javier Frias Serrrano" height="30" width="40" /></a>
 </p>
 
 ### :hammer_and_wrench: Languages and Tools :
