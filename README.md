@@ -13,7 +13,7 @@ ES ➡️
 </p>
 
 <p>
-ES ➡️ 
+EN ➡️ 
 <a href="https://github.com/Javierfs94/Javierfs94/blob/master/Javier_Frias_CV_EN.pdf" target="_blank">Here is my CV!</a>
 </p>
 
