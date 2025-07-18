@@ -12,6 +12,11 @@ ES ➡️
 <a href="https://github.com/Javierfs94/Javierfs94/blob/master/Javier_Frias_CV_ES.pdf" target="_blank">¡Mi CV está aquí!</a>
 </p>
 
+<p>
+ES ➡️ 
+<a href="https://github.com/Javierfs94/Javierfs94/blob/master/Javier_Frias_CV_EN.pdf" target="_blank">Here is my CV!</a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/javifs94/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Francisco Javier Frias Serrrano" height="30" width="40" /></a>
